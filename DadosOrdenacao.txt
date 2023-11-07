@@ -1,0 +1,92 @@
+Bubble Sort
+Vetor de tamanho: 50
+Média de tempo de execução em (ns): 73340.0
+Média de número de iterações: 1225.0
+Média de número de trocas: 578.2
+-------------------------------------------------------
+Shell Sort
+Vetor de tamanho: 50
+Média de tempo de execução em (ns): 16040.0
+Média de número de iterações: 222.0
+Média de número de trocas: 134.4
+-------------------------------------------------------
+Heap Sort
+Vetor de tamanho: 50
+Média de tempo de execução em (ns): 22580.0
+Média de número de iterações: 287.0
+Média de número de trocas: 241.6
+-------------------------------------------------------
+Bubble Sort
+Vetor de tamanho: 500
+Média de tempo de execução em (ns): 1018300.0
+Média de número de iterações: 124750.0
+Média de número de trocas: 63457.2
+-------------------------------------------------------
+Shell Sort
+Vetor de tamanho: 500
+Média de tempo de execução em (ns): 229540.0
+Média de número de iterações: 3777.0
+Média de número de trocas: 2939.4
+-------------------------------------------------------
+Heap Sort
+Vetor de tamanho: 500
+Média de tempo de execução em (ns): 286400.0
+Média de número de iterações: 4467.8
+Média de número de trocas: 4040.4
+-------------------------------------------------------
+Bubble Sort
+Vetor de tamanho: 1000
+Média de tempo de execução em (ns): 623860.0
+Média de número de iterações: 499500.0
+Média de número de trocas: 250094.4
+-------------------------------------------------------
+Shell Sort
+Vetor de tamanho: 1000
+Média de tempo de execução em (ns): 308240.0
+Média de número de iterações: 8277.0
+Média de número de trocas: 7424.0
+-------------------------------------------------------
+Heap Sort
+Vetor de tamanho: 1000
+Média de tempo de execução em (ns): 698980.0
+Média de número de iterações: 9927.6
+Média de número de trocas: 9071.4
+-------------------------------------------------------
+Bubble Sort
+Vetor de tamanho: 5000
+Média de tempo de execução em (ns): 1.019708E7
+Média de número de iterações: 1.24975E7
+Média de número de trocas: 6213431.0
+-------------------------------------------------------
+Shell Sort
+Vetor de tamanho: 5000
+Média de tempo de execução em (ns): 315560.0
+Média de número de iterações: 53445.0
+Média de número de trocas: 61532.4
+-------------------------------------------------------
+Heap Sort
+Vetor de tamanho: 5000
+Média de tempo de execução em (ns): 326360.0
+Média de número de iterações: 61332.0
+Média de número de trocas: 57097.4
+-------------------------------------------------------
+Bubble Sort
+Vetor de tamanho: 10000
+Média de tempo de execução em (ns): 3.986776E7
+Média de número de iterações: 4.9995E7
+Média de número de trocas: 2.4916314E7
+-------------------------------------------------------
+Shell Sort
+Vetor de tamanho: 10000
+Média de tempo de execução em (ns): 680800.0
+Média de número de iterações: 120325.0
+Média de número de trocas: 142077.2
+-------------------------------------------------------
+Heap Sort
+Vetor de tamanho: 10000
+Média de tempo de execução em (ns): 544580.0
+Média de número de iterações: 132700.0
+Média de número de trocas: 124207.0
+-------------------------------------------------------
+
+Process finished with exit code 0
